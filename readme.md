@@ -3,18 +3,17 @@
 
   
 
-# Laradminator
+# JAPAN API
 
-**_[Laravel](https://laravel.com/) PHP Framework with [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard)_** as admin dash
 
 ## Setup:
 All you need is to run these commands:
 
 ```bash
 
-git clone https://github.com/kossa/laradminator.git
+git clone https://github.com/kossa/japan_api.git
 
-cd laradminator
+cd japan_api
 
 composer install # Install backend dependencies
 
@@ -34,19 +33,11 @@ npm run production # To compile assets for prod
 
 ```
 
-## Demo:
-
-- Online demo: Can be found at [laradminator.bel4.com/admin](http://laradminator.bel4.com/admin)
-
-- Local demo: `php artisan serve # Check installation (optional)`
-Open browser at [localhost:8000/admin](http://localhost:8000/admin)
 
 **Note:**
-Username: test@example.com
+Username: rqcatindig@yahoo.com.com
 Password: 123456
 
-> All the data are reset each 30mn ;)
->  **please d'ont forget to remove [this](https://github.com/kossa/laradminator/blob/master/app/Console/Kernel.php#L27-L28) function in your app**
 
 ***
 ## Included Packages:
