@@ -3,7 +3,7 @@
 
   
 
-# JAPAN API
+# JAPAN API - Reynard Catindig - Bizmates
 
 
 ## Setup:
