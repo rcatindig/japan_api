@@ -19,5 +19,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::middleware('cors')->group(function(){
     Route::get('tourist_spots', 'TouristSpotApiController@index');
- });
+    Route::get('cities', 'CitiesApiController@index');
+});
 

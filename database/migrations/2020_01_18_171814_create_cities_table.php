@@ -17,6 +17,8 @@ class CreateCitiesTable extends Migration
             $table->engine = 'InnoDB';
             $table->bigIncrements('id');
             $table->string('name');
+            $table->float('longitude');
+            $table->float('latitude');
         });
     }
 
